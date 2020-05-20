@@ -19,7 +19,7 @@ end
 def output_array(message)
   count = 0
   while count < message.length do
-    puts message.[count]
+    puts message[count]
     count += 1
   end
 end
