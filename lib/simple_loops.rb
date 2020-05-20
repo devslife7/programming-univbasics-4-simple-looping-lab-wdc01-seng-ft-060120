@@ -15,3 +15,10 @@ def loop_message_n_times(message, n)
     count += 1
   end
 end
+
+def output_array(message, n)
+  count = 0
+  while count < n do
+    
+  end
+end
